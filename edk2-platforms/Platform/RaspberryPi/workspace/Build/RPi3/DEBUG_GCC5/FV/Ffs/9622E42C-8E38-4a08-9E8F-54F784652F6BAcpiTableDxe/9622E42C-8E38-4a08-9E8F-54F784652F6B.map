@@ -1,0 +1,525 @@
+由于文件 (符号) 而包含了归档成员
+
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (_ModuleEntryPoint)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memcpy.obj)
+                              /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memcpy)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memset.obj)
+                              /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memset)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib/OUTPUT/BaseStackCheckLib.lib(BaseStackCheckGcc.obj)
+                              /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (__stack_chk_fail)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Acpi/AcpiTableDxe/AcpiTableDxe/OUTPUT/AcpiTableDxe.lib(AutoGen.obj)
+                              DriverEntryPoint.obj (symbol from plugin) (ProcessLibraryConstructorList)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Acpi/AcpiTableDxe/AcpiTableDxe/OUTPUT/AcpiTableDxe.lib(AcpiTable.obj)
+                              AutoGen.obj (symbol from plugin) (InitializeAcpiTableDxe)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Acpi/AcpiTableDxe/AcpiTableDxe/OUTPUT/AcpiTableDxe.lib(AcpiTableProtocol.obj)
+                              AcpiTable.obj (symbol from plugin) (AcpiTableAcpiTableConstructor)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Acpi/AcpiTableDxe/AcpiTableDxe/OUTPUT/AcpiTableDxe.lib(AcpiSdt.obj)
+                              AcpiTableProtocol.obj (symbol from plugin) (SdtNotifyAcpiList)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Acpi/AcpiTableDxe/AcpiTableDxe/OUTPUT/AcpiTableDxe.lib(Aml.obj)
+                              AcpiSdt.obj (symbol from plugin) (AmlSearchByOpByte)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Acpi/AcpiTableDxe/AcpiTableDxe/OUTPUT/AcpiTableDxe.lib(AmlString.obj)
+                              AcpiSdt.obj (symbol from plugin) (AmlIsRootPath)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Acpi/AcpiTableDxe/AcpiTableDxe/OUTPUT/AcpiTableDxe.lib(AmlOption.obj)
+                              AcpiSdt.obj (symbol from plugin) (AmlGetObjectSize)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Acpi/AcpiTableDxe/AcpiTableDxe/OUTPUT/AcpiTableDxe.lib(AmlChild.obj)
+                              AcpiSdt.obj (symbol from plugin) (AmlGetChildFromRoot)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Acpi/AcpiTableDxe/AcpiTableDxe/OUTPUT/AcpiTableDxe.lib(AmlNamespace.obj)
+                              AcpiSdt.obj (symbol from plugin) (AmlFindPath)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              BaseStackCheckGcc.obj (symbol from plugin) (CpuDeadLoop)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LinkedList.obj)
+                              AcpiTableProtocol.obj (symbol from plugin) (InitializeListHead)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              AmlOption.obj (symbol from plugin) (AsciiStrSize)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+                              BaseStackCheckGcc.obj (symbol from plugin) (CpuBreakpoint)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              String.obj (symbol from plugin) (StrDecimalToUintnS)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes32)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes16)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              SafeString.obj (symbol from plugin) (RShiftU64)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              SafeString.obj (symbol from plugin) (MultU64x32)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              SafeString.obj (symbol from plugin) (LShiftU64)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              SafeString.obj (symbol from plugin) (DivU64x32)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              LShiftU64.obj (symbol from plugin) (InternalMathLShiftU64)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(MemLibGuid.obj)
+                              SafeString.obj (symbol from plugin) (CopyGuid)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(ZeroMemWrapper.obj)
+                              AcpiTableProtocol.obj (symbol from plugin) (ZeroMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareMemWrapper.obj)
+                              AmlNamespace.obj (symbol from plugin) (CompareMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMemWrapper.obj)
+                              AcpiTableProtocol.obj (symbol from plugin) (SetMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMemWrapper.obj)
+                              AcpiTableProtocol.obj (symbol from plugin) (CopyMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+                              ZeroMemWrapper.obj (symbol from plugin) (InternalMemZeroMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+                              MemLibGuid.obj (symbol from plugin) (InternalMemCopyMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareMem.obj)
+                              CompareMemWrapper.obj (symbol from plugin) (InternalMemCompareMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+                              MemLibGuid.obj (symbol from plugin) (InternalMemCompareGuid)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem64Wrapper.obj)
+                              SetMemWrapper.obj (symbol from plugin) (SetMem64)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib(DebugLib.obj)
+                              AutoGen.obj (symbol from plugin) (BaseDebugLibSerialPortConstructor)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiBootServicesTableLibConstructor)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              AcpiTableProtocol.obj (symbol from plugin) (AllocatePool)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib(UefiRuntimeServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiRuntimeServicesTableLibConstructor)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib(UefiLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiLibConstructor)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              UefiLib.obj (symbol from plugin) (ReadUnaligned24)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              DebugLib.obj (symbol from plugin) (GetDebugPrintErrorLevel)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              DebugLib.obj (symbol from plugin) (AsciiVSPrint)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              PrintLib.obj (symbol from plugin) (BasePrintLibConvertValueToString)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/Platform/RaspberryPi/Library/DualSerialPortLib/DualSerialPortLib/OUTPUT/DualSerialPortLib.lib(DualSerialPortLib.obj)
+                              DebugLib.obj (symbol from plugin) (SerialPortInitialize)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              UefiLib.obj (symbol from plugin) (DevicePathType)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              DevicePathUtilities.obj (symbol from plugin) (GetDevicePathSize)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertDeviceNodeToText)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertTextToDeviceNode)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              DevicePathFromText.obj (symbol from plugin) (SwapBytes64)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              PrintLibInternal.obj (symbol from plugin) (DivU64x32Remainder)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLibNoIo.obj)
+                              DualSerialPortLib.obj (symbol from plugin) (MmioRead8)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPlatformPkg/Library/PL011UartLib/PL011UartLib/OUTPUT/PL011UartLib.lib(PL011UartLib.obj)
+                              DualSerialPortLib.obj (symbol from plugin) (PL011UartInitializePort)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPlatformPkg/Library/PL011UartClockLib/PL011UartClockLib/OUTPUT/BasePL011UartClockLib.lib(PL011UartClockLib.obj)
+                              DualSerialPortLib.obj (symbol from plugin) (PL011UartClockGetFreq)
+
+舍弃的输入节
+
+ .text          0x0000000000000000       0x10 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data          0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .bss           0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .text          0x0000000000000000        0x0 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.StrnLenS
+                0x0000000000000000       0x7c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.__memset
+                0x0000000000000000       0x1c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.StrnLenS.str1.1
+                0x0000000000000000       0x68 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x31 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x8 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .data          0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .bss           0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .data          0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .bss           0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .data          0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+ .bss           0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+ .data          0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareMem.obj)
+ .bss           0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareMem.obj)
+ .text          0x0000000000000000       0x20 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+ .data          0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+ .bss           0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+
+内存配置
+
+名称           来源             长度             属性
+*default*        0x0000000000000000 0xffffffffffffffff
+
+链结器命令稿和内存映射
+
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+LOAD /tmp/cc6rGEtk.ltrans0.ltrans.o
+START GROUP
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Acpi/AcpiTableDxe/AcpiTableDxe/OUTPUT/AcpiTableDxe.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPlatformPkg/Library/PL011UartLib/PL011UartLib/OUTPUT/PL011UartLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPlatformPkg/Library/PL011UartClockLib/PL011UartClockLib/OUTPUT/BasePL011UartClockLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/Platform/RaspberryPi/Library/DualSerialPortLib/DualSerialPortLib/OUTPUT/DualSerialPortLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiRuntimeServicesTableLib/UefiRuntimeServicesTableLib/OUTPUT/UefiRuntimeServicesTableLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiLib/UefiLib/OUTPUT/UefiLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib/OUTPUT/BaseStackCheckLib.lib
+END GROUP
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.gnu.version_d  0x0000000000000228        0x0
+ .gnu.version_d
+                0x0000000000000228        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version    0x0000000000000228        0x0
+ .gnu.version   0x0000000000000228        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version_r  0x0000000000000228        0x0
+ .gnu.version_r
+                0x0000000000000228        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.text           0x0000000000001000     0x64b8
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.SerialPortWritable.constprop.23
+                0x0000000000001000        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.DebugPrintLevelEnabled.constprop.12
+                0x0000000000001008        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.InternalAllocatePool.constprop.10
+                0x0000000000001010       0x6c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.BasePrintLibFillBuffer
+                0x000000000000107c       0x34 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.DebugCodeEnabled
+                0x00000000000010b0        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.DebugPrintEnabled
+                0x00000000000010b8        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.DebugAssertEnabled
+                0x00000000000010c0        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AsciiStrnLenS
+                0x00000000000010c8       0x3c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlIsAslLeadName
+                0x0000000000001104       0x34 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlGetAslNameSegLength
+                0x0000000000001138       0xa4 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlGetNameStringSize
+                0x00000000000011dc      0x11c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlSearchByOpByte
+                0x00000000000012f8       0x5c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AcpiPlatformChecksum
+                0x0000000000001354       0x38 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.ChecksumCommonTables
+                0x000000000000138c       0x48 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.DebugAssert
+                0x00000000000013d4       0x8c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.CompareMem.constprop.0
+                0x0000000000001460       0xc8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.MmioWrite32
+                0x0000000000001528        0xc /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.MmioRead32
+                0x0000000000001534        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.SerialPortWrite
+                0x000000000000153c      0x11c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.BaseDebugLibSerialPortConstructor
+                0x0000000000001658      0x248 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.unlikely.ReadUnaligned16
+                0x00000000000018a0       0x68 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.20
+                0x0000000000001908      0xcbc /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.21
+                0x00000000000025c4       0x98 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AsciiSPrint.constprop.18
+                0x000000000000265c       0xa4 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AsciiStrLen
+                0x0000000000002700       0xa0 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.DebugPrint.constprop.13
+                0x00000000000027a0       0xb8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.FreePool
+                0x0000000000002858       0x78 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlPrintNameSeg
+                0x00000000000028d0       0xf8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AsciiStrSize
+                0x00000000000029c8       0x18 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.InitializeListHead
+                0x00000000000029e0       0x4c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.InternalBaseLibIsListValid
+                0x0000000000002a2c       0xb8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.RemoveEntryList
+                0x0000000000002ae4       0x88 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.InsertTailList
+                0x0000000000002b6c       0x6c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlDumpNodeInfo
+                0x0000000000002bd8      0x124 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlDestructNodeList
+                0x0000000000002cfc       0xa8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlGetPkgLength
+                0x0000000000002da4       0x70 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlParseOptionCommon
+                0x0000000000002e14      0x374 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlParseOptionHandleCommon
+                0x0000000000003188       0x1c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlGetOffsetAfterLastOption
+                0x00000000000031a4       0xa0 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlGetObjectSize
+                0x0000000000003244       0x60 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlGetChildFromObjectBuffer
+                0x00000000000032a4       0x84 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.GetOption
+                0x0000000000003328       0xf8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.SdtOpenEx
+                0x0000000000003420       0xc8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.GetChild
+                0x00000000000034e8      0x1f4 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.RegisterNotify
+                0x00000000000036dc      0x134 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.GetAcpiTable2
+                0x0000000000003810      0x134 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.FindTableByBuffer
+                0x0000000000003944       0xb4 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.Close    0x00000000000039f8       0x8c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.Open     0x0000000000003a84       0x6c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.FindTableByHandle
+                0x0000000000003af0       0xb8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.OpenSdt  0x0000000000003ba8       0xf0 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.CopyMem  0x0000000000003c98       0xb0 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlCreateNode
+                0x0000000000003d48       0x98 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlFindNodeInTheTree
+                0x0000000000003de0      0x1e8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlConstructNodeList.part.0
+                0x0000000000003fc8      0x2a0 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.AmlFindPath
+                0x0000000000004268      0x1e4 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.SetOption
+                0x000000000000444c      0x114 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.RemoveTableFromRsdt
+                0x0000000000004560      0x238 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.PublishTables
+                0x0000000000004798       0xfc /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.SetMem   0x0000000000004894       0x74 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.FindPath
+                0x0000000000004908      0x508 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.ZeroMem  0x0000000000004e10       0x7c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.ReallocateAcpiTableBuffer
+                0x0000000000004e8c      0x138 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.UninstallAcpiTable
+                0x0000000000004fc4      0x270 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.InstallAcpiTable
+                0x0000000000005234      0x644 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .text.__stack_chk_fail
+                0x0000000000005878       0x3c /tmp/cc6rGEtk.ltrans0.ltrans.o
+                0x0000000000005878                __stack_chk_fail
+ .text.memcpy   0x00000000000058b4       0x20 /tmp/cc6rGEtk.ltrans0.ltrans.o
+                0x00000000000058b4                memcpy
+ .text._ModuleEntryPoint
+                0x00000000000058d4      0x49c /tmp/cc6rGEtk.ltrans0.ltrans.o
+                0x00000000000058d4                _ModuleEntryPoint
+ .text          0x0000000000005d70      0x200 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+                0x0000000000005d70                InternalMemSetMem16
+                0x0000000000005d7c                InternalMemSetMem32
+                0x0000000000005d88                InternalMemSetMem64
+                0x0000000000005d94                InternalMemZeroMem
+                0x0000000000005d9c                InternalMemSetMem
+ .text          0x0000000000005f70      0x218 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+                0x00000000000060dc                InternalMemCopyMem
+ *fill*         0x0000000000006188       0x38 
+ .text          0x00000000000061c0       0xe0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareMem.obj)
+                0x00000000000061c0                InternalMemCompareMem
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.AmlParseOptionCommon
+                0x00000000000062a0        0x7 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.AmlConstructNodeList.part.0.str1.1
+                0x00000000000062a7       0x94 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.AmlCreateNode.str1.1
+                0x000000000000633b       0x1c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.AmlDumpNodeInfo.str1.1
+                0x0000000000006357       0x73 /tmp/cc6rGEtk.ltrans0.ltrans.o
+                                         0x77 (松开之前的大小)
+ .rodata.AmlFindNodeInTheTree.str1.1
+                0x00000000000063ca       0x26 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.AmlFindPath.str1.1
+                0x00000000000063f0       0x2d /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.AmlParseOptionCommon.str1.1
+                0x000000000000641d      0x122 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.AmlPrintNameSeg.str1.1
+                0x000000000000653f        0x3 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.AsciiStrLen.str1.1
+                0x0000000000006542       0x90 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.20.str1.1
+                0x00000000000065d2      0x180 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.CompareMem.constprop.0.str1.1
+                0x0000000000006752      0x118 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.CopyMem.str1.1
+                0x000000000000686a       0x55 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.DebugAssert.str1.1
+                0x00000000000068bf       0x25 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.FindPath.str1.1
+                0x00000000000068e4       0xcb /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.FindTableByHandle.str1.1
+                0x00000000000069af       0x5e /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.FreePool.str1.1
+                0x0000000000006a0d       0x93 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.GetAcpiTable2.str1.1
+                0x0000000000006aa0       0x31 /tmp/cc6rGEtk.ltrans0.ltrans.o
+                                         0x47 (松开之前的大小)
+ .rodata.GetChild.str1.1
+                0x0000000000006ad1       0x31 /tmp/cc6rGEtk.ltrans0.ltrans.o
+                                         0x17 (松开之前的大小)
+ .rodata.GetOption.str1.1
+                0x0000000000006ad1       0x9b /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.InitializeListHead.str1.1
+                0x0000000000006b6c       0x5e /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.InstallAcpiTable.str1.1
+                0x0000000000006bca       0x50 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.InternalBaseLibIsListValid.str1.1
+                0x0000000000006c1a       0x41 /tmp/cc6rGEtk.ltrans0.ltrans.o
+                                         0x56 (松开之前的大小)
+ .rodata.ReadUnaligned16.str1.1
+                0x0000000000006c5b       0x48 /tmp/cc6rGEtk.ltrans0.ltrans.o
+                                         0x5f (松开之前的大小)
+ .rodata.RegisterNotify.str1.1
+                0x0000000000006ca3       0x22 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.RemoveEntryList.str1.1
+                0x0000000000006cc5       0x3b /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.RemoveTableFromRsdt.str1.1
+                0x0000000000006d00       0x28 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.SdtOpenEx.str1.1
+                0x0000000000006d28       0x28 /tmp/cc6rGEtk.ltrans0.ltrans.o
+                                         0x1a (松开之前的大小)
+ .rodata.SetMem.str1.1
+                0x0000000000006d28       0x8c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.UninstallAcpiTable.str1.1
+                0x0000000000006db4       0x2f /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.ZeroMem.str1.1
+                0x0000000000006de3       0x8b /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata._ModuleEntryPoint.str1.1
+                0x0000000000006e6e      0x272 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.__stack_chk_fail.str1.1
+                0x00000000000070e0       0x2e /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata._gPcd_FixedAtBuild_PcdAcpiDefaultOemId
+                0x000000000000710e        0x7 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ *fill*         0x0000000000007115        0x3 
+ .rodata.mAmlTypeToAcpiType
+                0x0000000000007118       0x24 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.mErrorString
+                0x000000000000713c      0x2b5 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.mHexStr
+                0x00000000000073f1       0x10 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .rodata.mWarningString
+                0x0000000000007401       0x96 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ *(.got .got.*)
+ *fill*         0x0000000000007497        0x1 
+ .got           0x0000000000007498        0x8 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+                0x0000000000007498                _GLOBAL_OFFSET_TABLE_
+ .got.plt       0x00000000000074a0       0x18 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x00000000000074b8        0x0
+ .plt           0x00000000000074b8        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.data           0x0000000000008000     0x1500
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.ro   0x0000000000008000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data.__stack_chk_guard
+                0x0000000000008000        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+                0x0000000000008000                __stack_chk_guard
+ .data.gEfiAcpi10TableGuid
+                0x0000000000008008       0x10 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .data.gEfiAcpiSdtProtocolGuid
+                0x0000000000008018       0x10 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .data.gEfiAcpiTableGuid
+                0x0000000000008028       0x10 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .data.gEfiAcpiTableProtocolGuid
+                0x0000000000008038       0x10 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .data.mAcpiSdtProtocolTemplate
+                0x0000000000008048       0x50 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .data.mAmlByteEncoding
+                0x0000000000008098     0x141c /tmp/cc6rGEtk.ltrans0.ltrans.o
+ *fill*         0x00000000000094b4        0x4 
+ .data.mEfiAcpiMaxNumTables
+                0x00000000000094b8        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ *(.bss .bss.*)
+ .bss.UsePl011Uart
+                0x00000000000094c0        0x1 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .bss.UsePl011UartSet
+                0x00000000000094c1        0x1 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ *fill*         0x00000000000094c2        0x6 
+ .bss.gBS       0x00000000000094c8        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .bss.gImageHandle
+                0x00000000000094d0        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .bss.gRT       0x00000000000094d8        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .bss.gST       0x00000000000094e0        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .bss.mAcpiTableAllocType
+                0x00000000000094e8        0x4 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ *fill*         0x00000000000094ec        0x4 
+ .bss.mHandle   0x00000000000094f0        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+ .bss.mPrivateData
+                0x00000000000094f8        0x8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+
+.dynbss         0x0000000000009500        0x0
+ .dynbss        0x0000000000009500        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.eh_frame
+ *(.eh_frame)
+
+.rela           0x0000000000009500       0xd8
+ *(.rela .rela.*)
+ .rela.got      0x0000000000009500        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.plt      0x0000000000009500        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.bss      0x0000000000009500        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.rel.ro
+                0x0000000000009500        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.ifunc    0x0000000000009500        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.mAcpiSdtProtocolTemplate
+                0x0000000000009500       0xd8 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.hii
+ *(.hii)
+
+.build-id       0x00000000000095d8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000095d8       0x24 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+OUTPUT(/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/Acpi/AcpiTableDxe/AcpiTableDxe/DEBUG/AcpiTableDxe.dll elf64-littleaarch64)
+
+.debug_info     0x0000000000000000     0xabae
+ .debug_info    0x0000000000000000     0xabae /tmp/cc6rGEtk.ltrans0.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0x616
+ .debug_abbrev  0x0000000000000000      0x616 /tmp/cc6rGEtk.ltrans0.ltrans.o
+
+.debug_loc      0x0000000000000000     0xa6c5
+ .debug_loc     0x0000000000000000     0xa6c5 /tmp/cc6rGEtk.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0x490
+ .debug_aranges
+                0x0000000000000000      0x490 /tmp/cc6rGEtk.ltrans0.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x1250
+ .debug_ranges  0x0000000000000000     0x1250 /tmp/cc6rGEtk.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x1e30
+ .debug_line    0x0000000000000000     0x1e30 /tmp/cc6rGEtk.ltrans0.ltrans.o
+
+.debug_str      0x0000000000000000     0x2ef8
+ .debug_str     0x0000000000000000     0x2ef8 /tmp/cc6rGEtk.ltrans0.ltrans.o
+                                       0x3360 (松开之前的大小)
+
+.debug_frame    0x0000000000000000      0xe38
+ .debug_frame   0x0000000000000000      0xe38 /tmp/cc6rGEtk.ltrans0.ltrans.o

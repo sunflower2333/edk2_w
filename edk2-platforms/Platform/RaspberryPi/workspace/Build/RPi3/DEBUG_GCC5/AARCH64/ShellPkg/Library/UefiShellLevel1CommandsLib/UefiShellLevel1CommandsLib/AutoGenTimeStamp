@@ -1,0 +1,12 @@
+/home/hwdk/UEFIPROG/EDKHOME/edk2/ShellPkg/Library/UefiShellLevel1CommandsLib/UefiShellLevel1CommandsLib.h
+/home/hwdk/UEFIPROG/EDKHOME/edk2/ShellPkg/Library/UefiShellLevel1CommandsLib/UefiShellLevel1CommandsLib.inf
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel1CommandsLib/UefiShellLevel1CommandsLib/DEBUG/AutoGen.h
+/home/hwdk/UEFIPROG/EDKHOME/edk2/ShellPkg/Library/UefiShellLevel1CommandsLib/UefiShellLevel1CommandsLib.uni
+/home/hwdk/UEFIPROG/EDKHOME/edk2/ShellPkg/Library/UefiShellLevel1CommandsLib/If.c
+/home/hwdk/UEFIPROG/EDKHOME/edk2/ShellPkg/Library/UefiShellLevel1CommandsLib/Exit.c
+/home/hwdk/UEFIPROG/EDKHOME/edk2/ShellPkg/Library/UefiShellLevel1CommandsLib/Goto.c
+/home/hwdk/UEFIPROG/EDKHOME/edk2/ShellPkg/Library/UefiShellLevel1CommandsLib/Shift.c
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ShellPkg/Library/UefiShellLevel1CommandsLib/UefiShellLevel1CommandsLib/DEBUG/UefiShellLevel1CommandsLibStrDefs.h
+/home/hwdk/UEFIPROG/EDKHOME/edk2/ShellPkg/Library/UefiShellLevel1CommandsLib/UefiShellLevel1CommandsLib.c
+/home/hwdk/UEFIPROG/EDKHOME/edk2/ShellPkg/Library/UefiShellLevel1CommandsLib/Stall.c
+/home/hwdk/UEFIPROG/EDKHOME/edk2/ShellPkg/Library/UefiShellLevel1CommandsLib/For.c

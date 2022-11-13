@@ -1,0 +1,5 @@
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/Library/PlatformLib/AArch64/RaspberryPiHelper.S
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/Library/PlatformLib/PlatformLib.inf
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/Library/PlatformLib/RaspberryPiMem.c
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/Library/PlatformLib/RaspberryPi.c
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/Platform/RaspberryPi/Library/PlatformLib/PlatformLib/DEBUG/AutoGen.h

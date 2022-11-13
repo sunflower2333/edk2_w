@@ -1,0 +1,5 @@
+/home/hwdk/UEFIPROG/EDKHOME/edk2/MdeModulePkg/Library/DxeCoreMemoryAllocationLib/DxeCoreMemoryAllocationLib.inf
+/home/hwdk/UEFIPROG/EDKHOME/edk2/MdeModulePkg/Library/DxeCoreMemoryAllocationLib/MemoryAllocationLib.c
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Library/DxeCoreMemoryAllocationLib/DxeCoreMemoryAllocationLib/DEBUG/AutoGen.h
+/home/hwdk/UEFIPROG/EDKHOME/edk2/MdeModulePkg/Library/DxeCoreMemoryAllocationLib/DxeCoreMemoryAllocationServices.h
+/home/hwdk/UEFIPROG/EDKHOME/edk2/MdeModulePkg/Library/DxeCoreMemoryAllocationLib/DxeCoreMemoryProfileLibNull.c

@@ -1,0 +1,7 @@
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg/Library/BaseSynchronizationLib/AArch64
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg/Library/BaseSynchronizationLib
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseSynchronizationLib/BaseSynchronizationLib/DEBUG
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg/Include
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg/Test/UnitTest/Include
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg/Include/AArch64

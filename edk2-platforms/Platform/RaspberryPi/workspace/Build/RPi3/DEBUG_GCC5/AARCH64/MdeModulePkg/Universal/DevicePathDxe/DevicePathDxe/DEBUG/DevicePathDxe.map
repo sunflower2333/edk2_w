@@ -1,0 +1,1012 @@
+由于文件 (符号) 而包含了归档成员
+
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib(DriverEntryPoint.obj)
+                              (_ModuleEntryPoint)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memcpy.obj)
+                              /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memcpy)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib(memset.obj)
+                              /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (memset)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib/OUTPUT/BaseStackCheckLib.lib(BaseStackCheckGcc.obj)
+                              /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a (__stack_chk_fail)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/DevicePathDxe/DevicePathDxe/OUTPUT/DevicePathDxe.lib(AutoGen.obj)
+                              DriverEntryPoint.obj (symbol from plugin) (ProcessLibraryConstructorList)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/DevicePathDxe/DevicePathDxe/OUTPUT/DevicePathDxe.lib(DevicePath.obj)
+                              AutoGen.obj (symbol from plugin) (DevicePathEntryPoint)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuDeadLoop.obj)
+                              BaseStackCheckGcc.obj (symbol from plugin) (CpuDeadLoop)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+                              BaseStackCheckGcc.obj (symbol from plugin) (CpuBreakpoint)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib(DebugLib.obj)
+                              AutoGen.obj (symbol from plugin) (BaseDebugLibSerialPortConstructor)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib(UefiBootServicesTableLib.obj)
+                              AutoGen.obj (symbol from plugin) (UefiBootServicesTableLibConstructor)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(UefiDevicePathLib.obj)
+                              DevicePath.obj (symbol from plugin) (GetDevicePathSize)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathUtilities.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibGetDevicePathSize)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathToText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertDeviceNodeToText)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib(DevicePathFromText.obj)
+                              UefiDevicePathLib.obj (symbol from plugin) (UefiDevicePathLibConvertTextToDeviceNode)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(MemLibGuid.obj)
+                              DevicePathFromText.obj (symbol from plugin) (CopyGuid)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(ZeroMemWrapper.obj)
+                              DevicePathToText.obj (symbol from plugin) (ZeroMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMemWrapper.obj)
+                              DebugLib.obj (symbol from plugin) (SetMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMemWrapper.obj)
+                              DevicePathUtilities.obj (symbol from plugin) (CopyMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+                              ZeroMemWrapper.obj (symbol from plugin) (InternalMemZeroMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+                              MemLibGuid.obj (symbol from plugin) (InternalMemCopyMem)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+                              MemLibGuid.obj (symbol from plugin) (InternalMemCompareGuid)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem64Wrapper.obj)
+                              SetMemWrapper.obj (symbol from plugin) (SetMem64)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes64.obj)
+                              DevicePathFromText.obj (symbol from plugin) (SwapBytes64)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(LShiftU64.obj)
+                              DevicePathToText.obj (symbol from plugin) (LShiftU64)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SafeString.obj)
+                              DevicePathFromText.obj (symbol from plugin) (StrnLenS)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(String.obj)
+                              DevicePathFromText.obj (symbol from plugin) (StrLen)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Unaligned.obj)
+                              DevicePathUtilities.obj (symbol from plugin) (ReadUnaligned16)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(Math64.obj)
+                              LShiftU64.obj (symbol from plugin) (InternalMathLShiftU64)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes32.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes32)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(SwapBytes16.obj)
+                              SafeString.obj (symbol from plugin) (SwapBytes16)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(RShiftU64.obj)
+                              SafeString.obj (symbol from plugin) (RShiftU64)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(MultU64x32.obj)
+                              SafeString.obj (symbol from plugin) (MultU64x32)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32.obj)
+                              SafeString.obj (symbol from plugin) (DivU64x32)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib(BaseDebugPrintErrorLevelLib.obj)
+                              DebugLib.obj (symbol from plugin) (GetDebugPrintErrorLevel)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLib.obj)
+                              DevicePathToText.obj (symbol from plugin) (UnicodeVSPrint)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib(PrintLibInternal.obj)
+                              PrintLib.obj (symbol from plugin) (BasePrintLibConvertValueToString)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/Platform/RaspberryPi/Library/DualSerialPortLib/DualSerialPortLib/OUTPUT/DualSerialPortLib.lib(DualSerialPortLib.obj)
+                              DebugLib.obj (symbol from plugin) (SerialPortInitialize)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib(MemoryAllocationLib.obj)
+                              DevicePathUtilities.obj (symbol from plugin) (AllocatePool)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(DivU64x32Remainder.obj)
+                              PrintLibInternal.obj (symbol from plugin) (DivU64x32Remainder)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib(IoLibNoIo.obj)
+                              DualSerialPortLib.obj (symbol from plugin) (MmioRead8)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPlatformPkg/Library/PL011UartLib/PL011UartLib/OUTPUT/PL011UartLib.lib(PL011UartLib.obj)
+                              DualSerialPortLib.obj (symbol from plugin) (PL011UartInitializePort)
+/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPlatformPkg/Library/PL011UartClockLib/PL011UartClockLib/OUTPUT/BasePL011UartClockLib.lib(PL011UartClockLib.obj)
+                              DualSerialPortLib.obj (symbol from plugin) (PL011UartClockGetFreq)
+
+舍弃的输入节
+
+ .text          0x0000000000000000       0x10 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data          0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .bss           0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .text          0x0000000000000000        0x0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text._DriverUnloadHandler
+                0x0000000000000000        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.__memset
+                0x0000000000000000       0x1c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x31 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text          0x0000000000000000        0x8 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .data          0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .bss           0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib(CpuBreakpoint.obj)
+ .data          0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .bss           0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+ .data          0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+ .bss           0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+ .data          0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+ .bss           0x0000000000000000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+
+内存配置
+
+名称           来源             长度             属性
+*default*        0x0000000000000000 0xffffffffffffffff
+
+链结器命令稿和内存映射
+
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+LOAD /tmp/ccmEoplc.ltrans0.ltrans.o
+START GROUP
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/DevicePathDxe/DevicePathDxe/OUTPUT/DevicePathDxe.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/DxePcdLib/DxePcdLib/OUTPUT/DxePcdLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseLib/BaseLib/OUTPUT/BaseLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic/OUTPUT/BaseIoLibIntrinsic.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPlatformPkg/Library/PL011UartLib/PL011UartLib/OUTPUT/PL011UartLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPlatformPkg/Library/PL011UartClockLib/PL011UartClockLib/OUTPUT/BasePL011UartClockLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib/OUTPUT/BaseDebugPrintErrorLevelLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BasePrintLib/BasePrintLib/OUTPUT/BasePrintLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/Platform/RaspberryPi/Library/DualSerialPortLib/DualSerialPortLib/OUTPUT/DualSerialPortLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseDebugLibSerialPort/BaseDebugLibSerialPort/OUTPUT/BaseDebugLibSerialPort.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiBootServicesTableLib/UefiBootServicesTableLib/OUTPUT/UefiBootServicesTableLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiMemoryAllocationLib/UefiMemoryAllocationLib/OUTPUT/UefiMemoryAllocationLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDevicePathLib/UefiDevicePathLib/OUTPUT/UefiDevicePathLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint/OUTPUT/UefiDriverEntryPoint.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPkg/Library/CompilerIntrinsicsLib/CompilerIntrinsicsLib/OUTPUT/CompilerIntrinsicsLib.lib
+LOAD /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseStackCheckLib/BaseStackCheckLib/OUTPUT/BaseStackCheckLib.lib
+END GROUP
+                0x0000000000000228                . = PECOFF_HEADER_SIZE
+
+.gnu.version_d  0x0000000000000228        0x0
+ .gnu.version_d
+                0x0000000000000228        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version    0x0000000000000228        0x0
+ .gnu.version   0x0000000000000228        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.gnu.version_r  0x0000000000000228        0x0
+ .gnu.version_r
+                0x0000000000000228        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.text           0x0000000000001000     0xc6a8
+ *(.text .text.* .stub .gnu.linkonce.t.*)
+ .text.SerialPortWritable.constprop.25
+                0x0000000000001000        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.InternalAllocatePool.constprop.13
+                0x0000000000001008       0x6c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DebugPrintLevelEnabled
+                0x0000000000001074        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.BasePrintLibFillBuffer
+                0x000000000000107c       0x34 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.SwapBytes32
+                0x00000000000010b0       0x20 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.InternalIsHexaDecimalDigitCharacter
+                0x00000000000010d0       0x34 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.InternalHexCharToUintn
+                0x0000000000001104       0x40 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.AsciiStrnLenS
+                0x0000000000001144       0x3c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.SwapBytes64
+                0x0000000000001180       0x28 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrToAscii
+                0x00000000000011a8       0x2c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.IsHexStr
+                0x00000000000011d4       0x38 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.SplitStr
+                0x000000000000120c       0x48 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.GetNextParamStr
+                0x0000000000001254        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DebugPrintEnabled
+                0x000000000000125c        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DebugAssertEnabled
+                0x0000000000001264        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DebugAssert
+                0x000000000000126c       0x8c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.MmioWrite32
+                0x00000000000012f8        0xc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.MmioRead32
+                0x0000000000001304        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.SerialPortWrite
+                0x000000000000130c      0x11c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.BaseDebugLibSerialPortConstructor
+                0x0000000000001428      0x248 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.WriteUnaligned16
+                0x0000000000001670       0x5c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.WriteUnaligned32
+                0x00000000000016cc       0x64 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.WriteUnaligned64
+                0x0000000000001730       0x64 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.ReadUnaligned16
+                0x0000000000001794       0x68 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.ReadUnaligned32
+                0x00000000000017fc       0x5c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.AsciiStrLen
+                0x0000000000001858       0xa0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrLen   0x00000000000018f8       0xbc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrSize  0x00000000000019b4       0x1c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrnCmp  0x00000000000019d0       0xe4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrCmp   0x0000000000001ab4       0x98 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrnLenS
+                0x0000000000001b4c       0x7c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.BasePrintLibSPrintMarker.constprop.22
+                0x0000000000001bc8     0x1058 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.unlikely.BasePrintLibSPrint.constprop.23
+                0x0000000000002c20       0x9c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.AsciiSPrint.constprop.20
+                0x0000000000002cbc       0xa8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.SPrintLength
+                0x0000000000002d64       0x70 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.UnicodeVSPrint
+                0x0000000000002dd4       0x9c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.UnicodeSPrint.constprop.9
+                0x0000000000002e70       0x94 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.LShiftU64
+                0x0000000000002f04        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.ReadUnaligned64
+                0x0000000000002f0c       0x3c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.CopyMem  0x0000000000002f48       0xb0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.InternalAllocateCopyPool.constprop.12
+                0x0000000000002ff8       0x8c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.UefiDevicePathLibStrDuplicate
+                0x0000000000003084       0x24 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.ZeroMem  0x00000000000030a8       0x7c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.InternalAllocateZeroPool.constprop.11
+                0x0000000000003124       0x34 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.CompareGuid
+                0x0000000000003158       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.CopyGuid
+                0x00000000000031a8       0x54 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.SetDevicePathEndNode
+                0x00000000000031fc       0x54 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.SetDevicePathNodeLength
+                0x0000000000003250       0x78 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.UefiDevicePathLibCreateDeviceNode
+                0x00000000000032c8       0x64 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.CreateDeviceNode
+                0x000000000000332c        0x4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUri
+                0x0000000000003330       0x64 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextDebugPort
+                0x0000000000003394       0x40 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUartFlowCtrl
+                0x00000000000033d4       0x8c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextVenUtf8
+                0x0000000000003460       0x40 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextVenVt100Plus
+                0x00000000000034a0       0x40 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextVenVt100
+                0x00000000000034e0       0x40 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextVenPcAnsi
+                0x0000000000003520       0x40 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevicePathNodeLength
+                0x0000000000003560       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.NextDevicePathNode
+                0x00000000000035b0       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevicePathSubType
+                0x0000000000003600       0x48 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevicePathType
+                0x0000000000003648       0x48 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.IsDevicePathEndType
+                0x0000000000003690       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.IsDevicePathEnd
+                0x00000000000036e8       0x70 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.IsDevicePathValid.constprop.14
+                0x0000000000003758       0xc8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.UefiDevicePathLibGetDevicePathSize
+                0x0000000000003820       0x6c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.GetDevicePathSize
+                0x000000000000388c        0x4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.UefiDevicePathLibDuplicateDevicePath
+                0x0000000000003890       0x34 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DuplicateDevicePath
+                0x00000000000038c4        0x4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.UefiDevicePathLibAppendDevicePath
+                0x00000000000038c8       0xc4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.AppendDevicePath
+                0x000000000000398c        0x4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.AppendDevicePathInstance
+                0x0000000000003990       0xd4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.ConvertDeviceNodeToText
+                0x0000000000003a64      0x10c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.IsDevicePathMultiInstance
+                0x0000000000003b70       0xb8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.GetNextDevicePathInstance
+                0x0000000000003c28       0xf0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DebugPrint
+                0x0000000000003d18       0xd0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.UnicodeStrToAsciiStrS.constprop.7
+                0x0000000000003de8      0x1cc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextWiFi
+                0x0000000000003fb4       0xb8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.FreePool
+                0x000000000000406c       0x7c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.InternalReallocatePool.constprop.10
+                0x00000000000040e8       0x60 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.UefiDevicePathLibCatPrint
+                0x0000000000004148      0x188 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextNodeGeneric
+                0x00000000000042d0      0x104 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextEndInstance
+                0x00000000000043d4        0xc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextBBS
+                0x00000000000043e0       0xec /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextRamDisk
+                0x00000000000044cc      0x1a0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathRelativeOffsetRange
+                0x000000000000466c       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextFvFile
+                0x000000000000467c       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextFv
+                0x000000000000468c       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextMediaProtocol
+                0x000000000000469c       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextFilePath
+                0x00000000000046ac       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextCDROM
+                0x00000000000046bc       0x30 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextHardDrive
+                0x00000000000046ec       0x8c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextBluetoothLE
+                0x0000000000004778       0x44 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextWiFi
+                0x00000000000047bc       0x6c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextBluetooth
+                0x0000000000004828       0x24 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextVlan
+                0x000000000000484c       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextiSCSI
+                0x000000000000485c      0x110 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextUart
+                0x000000000000496c      0x118 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextInfiniBand
+                0x0000000000004a84       0x1c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.CatIPv6Address
+                0x0000000000004aa0       0x8c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.CatIPv4Address
+                0x0000000000004b2c       0x1c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextDns
+                0x0000000000004b48       0xc0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.CatNetworkProtocol
+                0x0000000000004c08       0x38 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextIPv6
+                0x0000000000004c40       0xe8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextIPv4
+                0x0000000000004d28       0xf0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextMacAddr
+                0x0000000000004e18       0x8c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextI2O
+                0x0000000000004ea4       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextSata
+                0x0000000000004eb4       0x18 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextUsbClass
+                0x0000000000004ecc      0x1bc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextLogicalUnit
+                0x0000000000005088       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextUsbWWID
+                0x0000000000005098       0xb0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextUsb
+                0x0000000000005148       0x14 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToText1394
+                0x000000000000515c       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextEmmc
+                0x000000000000516c       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextSd
+                0x000000000000517c       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextUfs
+                0x000000000000518c       0x14 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextNVMe
+                0x00000000000051a0       0x54 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextSasEx
+                0x00000000000051f4      0x184 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextFibreEx
+                0x0000000000005378       0xa0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextFibre
+                0x0000000000005418       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextScsi
+                0x0000000000005428       0x14 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextAtapi
+                0x000000000000543c       0x60 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextAcpiAdr
+                0x000000000000549c       0x90 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextAcpiEx
+                0x000000000000552c      0x28c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextAcpi
+                0x00000000000057b8       0xc0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextBmc
+                0x0000000000005878       0x3c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextController
+                0x00000000000058b4       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextVendor
+                0x00000000000058c4      0x350 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextMemMap
+                0x0000000000005c14       0x14 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextPccard
+                0x0000000000005c28       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextPci
+                0x0000000000005c38       0x14 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathToTextUri
+                0x0000000000005c4c       0x94 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.UefiDevicePathLibAppendDevicePathNode
+                0x0000000000005ce0       0x9c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.AppendDevicePathNode
+                0x0000000000005d7c        0x4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.ConvertDevicePathToText
+                0x0000000000005d80      0x170 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrHexToUint64
+                0x0000000000005ef0      0x188 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromText1394
+                0x0000000000006078       0x54 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrDecimalToUint64
+                0x00000000000060cc      0x144 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.Strtoi64
+                0x0000000000006210       0x40 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextRelativeOffsetRange
+                0x0000000000006250       0x70 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextFibreEx
+                0x00000000000062c0       0x8c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextFibre
+                0x000000000000634c       0x74 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrHexToBytes
+                0x00000000000063c0      0x1d0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextBluetooth
+                0x0000000000006590       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrToGuid
+                0x00000000000065e8      0x1e8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextFvFile
+                0x00000000000067d0       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextFv
+                0x0000000000006820       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextMedia
+                0x0000000000006870       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.ConvertFromTextVendor
+                0x00000000000068c0       0x94 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextVenMedia
+                0x0000000000006954        0xc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextVenMsg
+                0x0000000000006960        0xc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextVenHw
+                0x000000000000696c        0xc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrHexToUintnS
+                0x0000000000006978      0x1c4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrHexToUintn
+                0x0000000000006b3c       0x4c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.EisaIdFromText
+                0x0000000000006b88       0x44 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextAcpiExp
+                0x0000000000006bcc       0xec /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrDecimalToUintnS
+                0x0000000000006cb8      0x190 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrToIpv6Address.constprop.6
+                0x0000000000006e48      0x2c4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrToIpv4Address.constprop.5
+                0x000000000000710c      0x1c0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextDns
+                0x00000000000072cc      0x138 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrDecimalToUintn
+                0x0000000000007404       0x4c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.Strtoi   0x0000000000007450       0x2c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextSata
+                0x000000000000747c       0x98 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextBBS
+                0x0000000000007514      0x170 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextPersistentVirtualCd
+                0x0000000000007684       0xdc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextPersistentVirtualDisk
+                0x0000000000007760       0xdc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextVirtualCd
+                0x000000000000783c       0xdc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextVirtualDisk
+                0x0000000000007918       0xdc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextRamDisk
+                0x00000000000079f4       0xe4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextCDROM
+                0x0000000000007ad8       0x88 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextHD
+                0x0000000000007b60      0x160 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextBluetoothLE
+                0x0000000000007cc0       0x78 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextVlan
+                0x0000000000007d38       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextiSCSI
+                0x0000000000007d88      0x1b4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUnit
+                0x0000000000007f3c       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbWwid
+                0x0000000000007f8c       0xec /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.ConvertFromTextUsbClass
+                0x0000000000008078      0x124 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbTestAndMeasurement
+                0x000000000000819c       0x54 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbIrdaBridge
+                0x00000000000081f0       0x54 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbDeviceFirmwareUpdate
+                0x0000000000008244       0x54 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbWireless
+                0x0000000000008298       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbDiagnostic
+                0x00000000000082f0       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbVideo
+                0x0000000000008348       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbSmartCard
+                0x00000000000083a0       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbCDCData
+                0x00000000000083f8       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbHub
+                0x0000000000008450       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbMassStorage
+                0x00000000000084a8       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbPrinter
+                0x0000000000008500       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbImage
+                0x0000000000008558       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbHID
+                0x00000000000085b0       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbCDCControl
+                0x0000000000008608       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbAudio
+                0x0000000000008660       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsbClass
+                0x00000000000086b8       0x54 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUart
+                0x000000000000870c      0x1b0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.NetworkProtocolFromText
+                0x00000000000088bc       0x5c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextIPv6
+                0x0000000000008918      0x138 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextIPv4
+                0x0000000000008a50      0x124 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextMAC
+                0x0000000000008b74       0x88 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextEmmc
+                0x0000000000008bfc       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextSd
+                0x0000000000008c4c       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUfs
+                0x0000000000008c9c       0x70 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextNVMe
+                0x0000000000008d0c       0xc4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextSasEx
+                0x0000000000008dd0      0x240 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextSAS
+                0x0000000000009010      0x218 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextInfiniband
+                0x0000000000009228       0xc0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextI2O
+                0x00000000000092e8       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextUsb
+                0x0000000000009338       0x70 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextScsi
+                0x00000000000093a8       0x70 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextAta
+                0x0000000000009418       0xf8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextAcpiAdr
+                0x0000000000009510       0xf8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextAcpiEx
+                0x0000000000009608      0x130 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.ConvertFromTextAcpi
+                0x0000000000009738       0x68 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextParallelPort
+                0x00000000000097a0        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextSerial
+                0x00000000000097a8        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextKeyboard
+                0x00000000000097b0        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextFloppy
+                0x00000000000097b8        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextPcieRoot
+                0x00000000000097c0        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextPciRoot
+                0x00000000000097c8        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextAcpi
+                0x00000000000097d0       0x70 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextBmc
+                0x0000000000009840       0x78 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextCtrl
+                0x00000000000098b8       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextMemoryMapped
+                0x0000000000009908       0x88 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextPcCard
+                0x0000000000009990       0x50 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextPci
+                0x00000000000099e0       0x70 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextGenericPath
+                0x0000000000009a50       0x8c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextBbsPath
+                0x0000000000009adc        0xc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextMediaPath
+                0x0000000000009ae8        0xc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextMsg
+                0x0000000000009af4        0xc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextAcpiPath
+                0x0000000000009b00        0xc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextHardwarePath
+                0x0000000000009b0c        0xc /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.DevPathFromTextPath
+                0x0000000000009b18       0x2c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.StrCpyS  0x0000000000009b44      0x250 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.UefiDevicePathLibConvertTextToDeviceNode
+                0x0000000000009d94      0x154 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.ConvertTextToDevicePath
+                0x0000000000009ee8      0x1e0 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.ConvertTextToDeviceNode
+                0x000000000000a0c8        0x4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .text.__stack_chk_fail
+                0x000000000000a0cc       0x3c /tmp/ccmEoplc.ltrans0.ltrans.o
+                0x000000000000a0cc                __stack_chk_fail
+ .text.memcpy   0x000000000000a108       0x20 /tmp/ccmEoplc.ltrans0.ltrans.o
+                0x000000000000a108                memcpy
+ .text._ModuleEntryPoint
+                0x000000000000a128      0x178 /tmp/ccmEoplc.ltrans0.ltrans.o
+                0x000000000000a128                _ModuleEntryPoint
+ .text          0x000000000000a2a0      0x200 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(SetMem.obj)
+                0x000000000000a2a0                InternalMemSetMem16
+                0x000000000000a2ac                InternalMemSetMem32
+                0x000000000000a2b8                InternalMemSetMem64
+                0x000000000000a2c4                InternalMemZeroMem
+                0x000000000000a2cc                InternalMemSetMem
+ .text          0x000000000000a4a0      0x218 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CopyMem.obj)
+                0x000000000000a60c                InternalMemCopyMem
+ *fill*         0x000000000000a6b8        0x8 
+ .text          0x000000000000a6c0       0x20 /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdePkg/Library/BaseMemoryLibOptDxe/BaseMemoryLibOptDxe/OUTPUT/BaseMemoryLibOptDxe.lib(CompareGuid.obj)
+                0x000000000000a6c0                InternalMemCompareGuid
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.DevPathToTextBBS
+                0x000000000000a6e0        0x6 /tmp/ccmEoplc.ltrans0.ltrans.o
+ *fill*         0x000000000000a6e6        0x2 
+ .rodata.DevPathToTextUart
+                0x000000000000a6e8        0x4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathFromTextUart
+                0x000000000000a6ec       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.AsciiStrLen.str1.1
+                0x000000000000a6fc       0x90 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.BasePrintLibSPrintMarker.constprop.22.str1.1
+                0x000000000000a78c      0x290 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.CSWTCH.42
+                0x000000000000aa1c        0x6 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.CatIPv4Address.str2.2
+                0x000000000000aa22       0x18 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.CatIPv6Address.str2.2
+                0x000000000000aa3a       0x90 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.CatNetworkProtocol.str2.2
+                0x000000000000aaca        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+                                         0x12 (松开之前的大小)
+ .rodata.CompareGuid.str1.1
+                0x000000000000aad2       0x6b /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.ConvertDeviceNodeToText.str1.1
+                0x000000000000ab3d       0x6d /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.ConvertDevicePathToText.str2.2
+                0x000000000000abaa        0x4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.ConvertTextToDevicePath.str1.1
+                0x000000000000abae       0x36 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.CopyGuid.str1.1
+                0x000000000000abe4       0x20 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.CopyMem.str1.1
+                0x000000000000ac04       0xd6 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DebugAssert.str1.1
+                0x000000000000acda       0x26 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathFromTextAcpiAdr.str1.1
+                0x000000000000ad00       0x6f /tmp/ccmEoplc.ltrans0.ltrans.o
+ *fill*         0x000000000000ad6f        0x1 
+ .rodata.DevPathFromTextIPv6.str2.2
+                0x000000000000ad70       0x2e /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathFromTextSasEx.str2.2
+                0x000000000000ad9e       0x16 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathFromTextUart.str2.2
+                0x000000000000adb4       0x20 /tmp/ccmEoplc.ltrans0.ltrans.o
+                                         0x24 (松开之前的大小)
+ .rodata.DevPathFromTextUartFlowCtrl.str2.2
+                0x000000000000add4       0x22 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathRelativeOffsetRange.str2.2
+                0x000000000000adf6       0x28 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToText1394.str2.2
+                0x000000000000ae1e       0x1c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextAcpi.str2.2
+                0x000000000000ae3a       0xc2 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextAcpiAdr.str2.2
+                0x000000000000aefc       0x26 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextAcpiEx.str2.2
+                0x000000000000af22      0x116 /tmp/ccmEoplc.ltrans0.ltrans.o
+                                        0x132 (松开之前的大小)
+ .rodata.DevPathToTextAtapi.str2.2
+                0x000000000000b038       0x72 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextBBS.str2.2
+                0x000000000000b0aa       0x72 /tmp/ccmEoplc.ltrans0.ltrans.o
+                                         0x80 (松开之前的大小)
+ .rodata.DevPathToTextBluetooth.str2.2
+                0x000000000000b11c       0x48 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextBluetoothLE.str2.2
+                0x000000000000b164       0x5a /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextBmc.str2.2
+                0x000000000000b1be       0x20 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextCDROM.str2.2
+                0x000000000000b1de       0x48 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextController.str2.2
+                0x000000000000b226       0x16 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextDns.str2.2
+                0x000000000000b23c        0xa /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextEmmc.str2.2
+                0x000000000000b246       0x16 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextFibre.str2.2
+                0x000000000000b25c       0x26 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextFibreEx.str2.2
+                0x000000000000b282       0x16 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextFilePath.str2.2
+                0x000000000000b298        0x6 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextFv.str2.2
+                0x000000000000b29e        0xe /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextFvFile.str2.2
+                0x000000000000b2ac       0x16 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextHardDrive.str2.2
+                0x000000000000b2c2       0x64 /tmp/ccmEoplc.ltrans0.ltrans.o
+                                         0x7e (松开之前的大小)
+ .rodata.DevPathToTextI2O.str2.2
+                0x000000000000b326       0x14 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextIPv4.str2.2
+                0x000000000000b33a       0x24 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextIPv6.str2.2
+                0x000000000000b35e       0x80 /tmp/ccmEoplc.ltrans0.ltrans.o
+                                         0x8e (松开之前的大小)
+ .rodata.DevPathToTextInfiniBand.str2.2
+                0x000000000000b3de       0x4c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextLogicalUnit.str2.2
+                0x000000000000b42a       0x16 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextMacAddr.str2.2
+                0x000000000000b440        0xa /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextMediaProtocol.str2.2
+                0x000000000000b44a       0x14 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextMemMap.str2.2
+                0x000000000000b45e       0x3e /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextNVMe.str2.2
+                0x000000000000b49c       0x66 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextNodeGeneric.str2.2
+                0x000000000000b502       0x22 /tmp/ccmEoplc.ltrans0.ltrans.o
+                                         0x34 (松开之前的大小)
+ .rodata.DevPathToTextPccard.str2.2
+                0x000000000000b524       0x1a /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextPci.str2.2
+                0x000000000000b53e       0x1e /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextRamDisk.str2.2
+                0x000000000000b55c       0xca /tmp/ccmEoplc.ltrans0.ltrans.o
+                                        0x136 (松开之前的大小)
+ .rodata.DevPathToTextSasEx.str2.2
+                0x000000000000b626       0xb4 /tmp/ccmEoplc.ltrans0.ltrans.o
+                                         0xc0 (松开之前的大小)
+ .rodata.DevPathToTextSata.str2.2
+                0x000000000000b6da       0x2a /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextScsi.str2.2
+                0x000000000000b704       0x20 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextSd.str2.2
+                0x000000000000b724       0x12 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextUart.str2.2
+                0x000000000000b736       0x5c /tmp/ccmEoplc.ltrans0.ltrans.o
+                                         0x74 (松开之前的大小)
+ .rodata.DevPathToTextUfs.str2.2
+                0x000000000000b792       0x1e /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextUri.str1.1
+                0x000000000000b7b0       0x17 /tmp/ccmEoplc.ltrans0.ltrans.o
+ *fill*         0x000000000000b7c7        0x1 
+ .rodata.DevPathToTextUri.str2.2
+                0x000000000000b7c8       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextUsb.str2.2
+                0x000000000000b7d8       0x1e /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextUsbClass.str2.2
+                0x000000000000b7f6      0x250 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextUsbWWID.str1.1
+                0x000000000000ba46       0x17 /tmp/ccmEoplc.ltrans0.ltrans.o
+ *fill*         0x000000000000ba5d        0x1 
+ .rodata.DevPathToTextUsbWWID.str2.2
+                0x000000000000ba5e       0x3a /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextVendor.str2.2
+                0x000000000000ba98      0x118 /tmp/ccmEoplc.ltrans0.ltrans.o
+                                        0x144 (松开之前的大小)
+ .rodata.DevPathToTextVlan.str2.2
+                0x000000000000bbb0       0x12 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextWiFi.str2.2
+                0x000000000000bbc2       0x14 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.DevPathToTextiSCSI.str2.2
+                0x000000000000bbd6       0x76 /tmp/ccmEoplc.ltrans0.ltrans.o
+                                         0x90 (松开之前的大小)
+ .rodata.FreePool.str1.1
+                0x000000000000bc4c       0x35 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.GetNextDevicePathInstance.str1.1
+                0x000000000000bc81       0x15 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.InternalAllocateCopyPool.constprop.12.str1.1
+                0x000000000000bc96       0x9d /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.SPrintLength.str1.1
+                0x000000000000bd33       0x6f /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.SetDevicePathEndNode.str1.1
+                0x000000000000bda2       0x58 /tmp/ccmEoplc.ltrans0.ltrans.o
+                                         0x6d (松开之前的大小)
+ .rodata.SetDevicePathNodeLength.str1.1
+                0x000000000000bdfa       0x47 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.StrCpyS.str1.1
+                0x000000000000be41       0xbb /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.StrHexToBytes.str1.1
+                0x000000000000befc       0x45 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.StrHexToUint64.str1.1
+                0x000000000000bf41       0x41 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.StrLen.str1.1
+                0x000000000000bf82       0x5d /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.StrToGuid.str1.1
+                0x000000000000bfdf        0xf /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.StrToIpv6Address.constprop.6.str1.1
+                0x000000000000bfee       0x5c /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.StrnCmp.str1.1
+                0x000000000000c04a       0x72 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.StrnLenS.str1.1
+                0x000000000000c0bc       0x45 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.UefiDevicePathLibCatPrint.str1.1
+                0x000000000000c101       0x19 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.UefiDevicePathLibConvertTextToDeviceNode.str1.1
+                0x000000000000c11a       0x1e /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.UnicodeSPrint.constprop.9.str2.2
+                0x000000000000c138       0x16 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.UnicodeStrToAsciiStrS.constprop.7.str1.1
+                0x000000000000c14e      0x100 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.UnicodeVSPrint.str1.1
+                0x000000000000c24e       0x28 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.WriteUnaligned16.str1.1
+                0x000000000000c276       0x5f /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.ZeroMem.str1.1
+                0x000000000000c2d5       0x8b /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata._ModuleEntryPoint.str1.1
+                0x000000000000c360      0x18f /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.1966
+                0x000000000000c4ef        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.2011
+                0x000000000000c4f7       0x13 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.2026
+                0x000000000000c50a       0x14 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.2041
+                0x000000000000c51e        0xf /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.2056
+                0x000000000000c52d       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.2081
+                0x000000000000c53d       0x11 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.2097
+                0x000000000000c54e       0x11 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.2107
+                0x000000000000c55f        0xa /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.2115
+                0x000000000000c569        0xe /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.__FUNCTION__.2246
+                0x000000000000c577       0x16 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.__stack_chk_fail.str1.1
+                0x000000000000c58d       0x2e /tmp/ccmEoplc.ltrans0.ltrans.o
+ *fill*         0x000000000000c5bb        0x5 
+ .rodata.mDevicePathFromText
+                0x000000000000c5c0       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.mDevicePathToText
+                0x000000000000c5d0       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.mDevicePathUtilities
+                0x000000000000c5e0       0x40 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.mErrorString
+                0x000000000000c620      0x2b5 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.mHexStr
+                0x000000000000c8d5       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ *fill*         0x000000000000c8e5        0x3 
+ .rodata.mUefiDevicePathLibDevPathFromTextTable
+                0x000000000000c8e8      0x570 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.mUefiDevicePathLibEndDevicePath
+                0x000000000000ce58        0x4 /tmp/ccmEoplc.ltrans0.ltrans.o
+ *fill*         0x000000000000ce5c        0x4 
+ .rodata.mUefiDevicePathLibToTextTable
+                0x000000000000ce60      0x320 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.mUefiDevicePathLibToTextTableGeneric
+                0x000000000000d180       0x60 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.mWarningString
+                0x000000000000d1e0       0x96 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .rodata.str2.2
+                0x000000000000d276      0x40c /tmp/ccmEoplc.ltrans0.ltrans.o
+                                        0x44c (松开之前的大小)
+ *(.got .got.*)
+ *fill*         0x000000000000d682        0x6 
+ .got           0x000000000000d688        0x8 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+                0x000000000000d688                _GLOBAL_OFFSET_TABLE_
+ .got.plt       0x000000000000d690       0x18 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ *:AutoGen.obj(.data.g*Guid)
+
+.plt            0x000000000000d6a8        0x0
+ .plt           0x000000000000d6a8        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.data           0x000000000000e000      0x108
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.ro   0x000000000000e000        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .data.__stack_chk_guard
+                0x000000000000e000        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+                0x000000000000e000                __stack_chk_guard
+ .data.gEfiDebugPortProtocolGuid
+                0x000000000000e008       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiDevicePathFromTextProtocolGuid
+                0x000000000000e018       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiDevicePathToTextProtocolGuid
+                0x000000000000e028       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiDevicePathUtilitiesProtocolGuid
+                0x000000000000e038       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiPcAnsiGuid
+                0x000000000000e048       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiPersistentVirtualCdGuid
+                0x000000000000e058       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiPersistentVirtualDiskGuid
+                0x000000000000e068       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiSasDevicePathGuid
+                0x000000000000e078       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiUartDevicePathGuid
+                0x000000000000e088       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiVT100Guid
+                0x000000000000e098       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiVT100PlusGuid
+                0x000000000000e0a8       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiVTUTF8Guid
+                0x000000000000e0b8       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiVirtualCdGuid
+                0x000000000000e0c8       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .data.gEfiVirtualDiskGuid
+                0x000000000000e0d8       0x10 /tmp/ccmEoplc.ltrans0.ltrans.o
+ *(.bss .bss.*)
+ .bss.UsePl011Uart
+                0x000000000000e0e8        0x1 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .bss.UsePl011UartSet
+                0x000000000000e0e9        0x1 /tmp/ccmEoplc.ltrans0.ltrans.o
+ *fill*         0x000000000000e0ea        0x6 
+ .bss.gBS       0x000000000000e0f0        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .bss.gImageHandle
+                0x000000000000e0f8        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+ .bss.gST       0x000000000000e100        0x8 /tmp/ccmEoplc.ltrans0.ltrans.o
+
+.dynbss         0x000000000000e108        0x0
+ .dynbss        0x000000000000e108        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.eh_frame
+ *(.eh_frame)
+
+.rela           0x000000000000e108     0x1650
+ *(.rela .rela.*)
+ .rela.got      0x000000000000e108        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.plt      0x000000000000e108        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.bss      0x000000000000e108        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.data.rel.ro
+                0x000000000000e108        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.ifunc    0x000000000000e108        0x0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.rodata.mDevicePathFromText
+                0x000000000000e108       0x30 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.rodata.mDevicePathToText
+                0x000000000000e138       0x30 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.rodata.mDevicePathUtilities
+                0x000000000000e168       0xc0 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.rodata.mUefiDevicePathLibDevPathFromTextTable
+                0x000000000000e228     0x1020 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.rodata.mUefiDevicePathLibToTextTable
+                0x000000000000f248      0x498 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+ .rela.rodata.mUefiDevicePathLibToTextTableGeneric
+                0x000000000000f6e0       0x78 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+.hii
+ *(.hii)
+
+.build-id       0x000000000000f758       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000000f758       0x24 /home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Library/GccLto/liblto-aarch64.a
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.interp)
+ *(.dynsym)
+ *(.dynstr)
+ *(.dynamic)
+ *(.hash .gnu.hash)
+ *(.comment)
+ *(COMMON)
+                0x0000000000000228                PECOFF_HEADER_SIZE = 0x228
+OUTPUT(/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/DevicePathDxe/DevicePathDxe/DEBUG/DevicePathDxe.dll elf64-littleaarch64)
+
+.debug_info     0x0000000000000000    0x140f5
+ .debug_info    0x0000000000000000    0x140f5 /tmp/ccmEoplc.ltrans0.ltrans.o
+
+.debug_abbrev   0x0000000000000000      0x630
+ .debug_abbrev  0x0000000000000000      0x630 /tmp/ccmEoplc.ltrans0.ltrans.o
+
+.debug_loc      0x0000000000000000    0x13bb5
+ .debug_loc     0x0000000000000000    0x13bb5 /tmp/ccmEoplc.ltrans0.ltrans.o
+
+.debug_aranges  0x0000000000000000      0xf10
+ .debug_aranges
+                0x0000000000000000      0xf10 /tmp/ccmEoplc.ltrans0.ltrans.o
+
+.debug_ranges   0x0000000000000000     0x2170
+ .debug_ranges  0x0000000000000000     0x2170 /tmp/ccmEoplc.ltrans0.ltrans.o
+
+.debug_line     0x0000000000000000     0x36a9
+ .debug_line    0x0000000000000000     0x36a9 /tmp/ccmEoplc.ltrans0.ltrans.o
+
+.debug_str      0x0000000000000000     0x45bb
+ .debug_str     0x0000000000000000     0x45bb /tmp/ccmEoplc.ltrans0.ltrans.o
+                                       0x4b85 (松开之前的大小)
+
+.debug_frame    0x0000000000000000     0x2c08
+ .debug_frame   0x0000000000000000     0x2c08 /tmp/ccmEoplc.ltrans0.ltrans.o

@@ -1,0 +1,13 @@
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPlatformPkg/Library/ArmPlatformStackLib/AArch64
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPlatformPkg/Library/ArmPlatformStackLib
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/ArmPlatformPkg/Library/ArmPlatformStackLib/ArmPlatformStackLib/DEBUG
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg/Include
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg/Test/UnitTest/Include
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg/Include/AArch64
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdeModulePkg
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdeModulePkg/Include
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPkg/Include
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPlatformPkg
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/ArmPlatformPkg/Include

@@ -1,0 +1,4 @@
+gCommandLineDefines: {'ARCH': 'AARCH64'}
+BuildOptionPcd: []
+Active Platform: /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/RPi3/RPi3.dsc
+Flash Image Definition: /home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/RPi3/RPi3.fdf

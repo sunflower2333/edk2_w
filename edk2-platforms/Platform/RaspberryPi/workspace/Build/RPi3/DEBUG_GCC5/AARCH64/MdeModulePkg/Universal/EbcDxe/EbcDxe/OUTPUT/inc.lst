@@ -1,0 +1,10 @@
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdeModulePkg/Universal/EbcDxe/AArch64
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdeModulePkg/Universal/EbcDxe
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2-platforms/Platform/RaspberryPi/workspace/Build/RPi3/DEBUG_GCC5/AARCH64/MdeModulePkg/Universal/EbcDxe/EbcDxe/DEBUG
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg/Include
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg/Test/UnitTest/Include
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdePkg/Include/AArch64
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdeModulePkg
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdeModulePkg/Include
+-I/home/hwdk/UEFIPROG/EDKHOME/edk2/MdeModulePkg/Library/BrotliCustomDecompressLib/brotli/c/include
